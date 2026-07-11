@@ -1,0 +1,11 @@
+¿Qué aprendiste durante el curso sobre el uso de
+ la tecnología para fortalecer la participación ciudadana y la organización comunitaria?
+
+Este curso fue un aprendizaje completamente nuevo para mí. No conocía que la tecnología podía servir para ayudar a las personas y a las comunidades.
+Tampoco pensaba que una página o una aplicación pudiera facilitar tanto la participación ciudadana. comprendi lo importante que es que una página sea entendible,
+fácil de utilizar y que explique paso a paso cómo debe llenarse la información, ya que hoy en día muchas personas mayores no comprenden muy bien la tecnología.
+ Por eso, me parece muy importante fortalecer la accesibilidad para que cualquier miembro de la comunidad pueda ejercer sus derechos sin dificultades.
+ Otra cosa que aprendí fue la importancia de verificar la información antes de compartirla o divulgarla, para evitar noticias falsas o información que pueda afectar a otras personas. 
+ Además, conocí herramientas como Git, GitHub, JavaScript, Node.js y Express. Antes no tenía ningún conocimiento sobre repositorios, GitHub ni cómo se desarrollan las aplicaciones,
+ pero durante el curso pude aprender las bases. Como dicen, nunca está de más aprender cosas nuevas, porque más adelante esos conocimientos pueden servir mucho.
+  En general, este curso me dejó nuevos aprendizajes y me mostró que la tecnología puede usarse para resolver problemas reales y ayudar a la comunidad.

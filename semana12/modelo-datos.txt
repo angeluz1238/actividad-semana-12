@@ -1,0 +1,29 @@
+Describe un modelo básico de datos con al menos dos entidades.
+Explica brevemente para qué sirve cada entidad.
+
+Entidad: Ciudadano
+
+campos:
+
+id: 001
+nombre: Laura Gómez
+correo: laura.gomez@correo.com
+teléfono: 3001234567
+
+¿Para qué sirve?
+Esta entidad guarda la información de las personas que crean una causa o apoyan una petición.
+
+Entidad: Petición
+
+campos:
+
+id: 001
+título: Instalación de alumbrado público en el barrio La Esperanza
+descripción: Los habitantes solicitan más alumbrado público porque algunas calles permanecen 
+oscuras y esto afecta la seguridad de la comunidad.
+fecha: 11/07/2026
+estado: En proceso
+
+¿Para qué sirve?
+Esta entidad almacena la información de cada petición para que el sistema pueda organizarla
+ y darle seguimiento.

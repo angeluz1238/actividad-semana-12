@@ -1,0 +1,12 @@
+Describe en pasos simples cómo funcionaría el sistema Petición en 3 Clics.
+Escribe al menos 5 pasos claros.
+
+1. Un ciudadano crea una causa para solicitar más alumbrado público en su barrio porque hay calles muy oscuras.
+
+2. El sistema registra la causa para que los demás habitantes de la comunidad puedan verla.
+
+3. Las personas que están de acuerdo apoyan la causa desde la plataforma.
+
+4. El sistema cuenta todos los apoyos que recibe la solicitud.
+
+5. Con la información y los apoyos registrados, el sistema genera una petición formal en formato PDF para presentarla a la alcaldía.

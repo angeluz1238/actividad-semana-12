@@ -1,0 +1,19 @@
+describe una automatización simple usando n8n o Telegram.
+
+Debe incluir:
+
+Qué evento activa la automatización.
+Qué mensaje se envía.
+Qué información no debe enviarse por seguridad.
+
+repuesta:
+Automatización con Telegram
+
+Evento:Se registra una nueva causa llamada "Arreglo de la vía principal del barrio San José".
+
+Mensaje:"Se ha registrado una nueva causa en Petición en 3 Clics: Arreglo de la vía principal del barrio San José.
+ Ingresa a la plataforma para conocer la propuesta y apoyar esta iniciativa."
+
+Información que no debe enviarse por seguridad: Nombres completos de los ciudadanos, números de cédula, teléfonos,
+ correos electrónicos, direcciones, comentarios privados o cualquier otro dato  personal de las personas que crean 
+ o apoyan la causa.
